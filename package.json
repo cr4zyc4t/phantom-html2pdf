@@ -1,26 +1,18 @@
 {
   "name": "@flxp/phantom-html2pdf",
   "description": "A fork of phantom-html2pdf. Simple and lightweight HTML to PDF conversion using Node and PhantomJS",
-  "contributors": [
-    "Philipp Christoph",
-    "Evgenij Terehov <opensource@terehov.de>"
-  ],
-  "version": "1.0.3",
+  "version": "1.0.4",
   "dependencies": {
     "async": "1.5.0",
     "debug": "2.2.0",
     "phantomjs": "1.9.19",
     "tmp": "0.0.29"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bauhausjs/phantom-html2pdf.git"
-  },
   "keywords": [
     "pdf",
     "html",
     "converter",
-    "bauhaus"
+    "cr4zyc4t"
   ],
   "main": "./lib/phantom-html2pdf",
   "bin": {
@@ -31,20 +23,20 @@
   "engines": {
     "node": "*"
   },
-  "bugs": {
-    "url": "https://github.com/bauhausjs/html2pdf/issues"
-  },
-  "homepage": "https://github.com/bauhausjs/html2pdf",
   "license": "MIT",
-  "maintainers": [
-    "eterehov <opensource@terehov.de>",
-    "dustin-H"
-  ],
   "directories": {
     "lib": "lib"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ToanVQ <hunter9xbn@gmail.com>"
+  "author": "ToanVQ <hunter9xbn@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cr4zyc4t/phantom-html2pdf.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cr4zyc4t/phantom-html2pdf/issues"
+  },
+  "homepage": "https://github.com/cr4zyc4t/phantom-html2pdf#readme"
 }
