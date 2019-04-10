@@ -1,7 +1,8 @@
 {
-  "name": "@flxp/phantom-html2pdf",
+  "name": "@cr4zyc4t/phantom-html2pdf",
   "description": "A fork of phantom-html2pdf. Simple and lightweight HTML to PDF conversion using Node and PhantomJS",
-  "version": "1.0.4",
+  "version": "1.0.3",
+  "forkVersion": "1.0.3",
   "dependencies": {
     "async": "1.5.0",
     "debug": "2.2.0",
